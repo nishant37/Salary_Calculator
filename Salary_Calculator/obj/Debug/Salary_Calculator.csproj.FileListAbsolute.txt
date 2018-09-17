@@ -1,0 +1,11 @@
+C:\Users\nisha\source\repos\Salary_Calculator\Salary_Calculator\obj\Debug\Salary_Calculator.csprojAssemblyReference.cache
+C:\Users\nisha\source\repos\Salary_Calculator\Salary_Calculator\obj\Debug\Salary_Calculator.Form1.resources
+C:\Users\nisha\source\repos\Salary_Calculator\Salary_Calculator\obj\Debug\Salary_Calculator.Properties.Resources.resources
+C:\Users\nisha\source\repos\Salary_Calculator\Salary_Calculator\obj\Debug\Salary_Calculator.csproj.GenerateResource.cache
+C:\Users\nisha\source\repos\Salary_Calculator\Salary_Calculator\obj\Debug\Salary_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\nisha\source\repos\Salary_Calculator\Salary_Calculator\bin\Debug\Salary_Calculator.exe.config
+C:\Users\nisha\source\repos\Salary_Calculator\Salary_Calculator\bin\Debug\Salary_Calculator.exe
+C:\Users\nisha\source\repos\Salary_Calculator\Salary_Calculator\bin\Debug\Salary_Calculator.pdb
+C:\Users\nisha\source\repos\Salary_Calculator\Salary_Calculator\obj\Debug\Salary_Calculator.Form2.resources
+C:\Users\nisha\source\repos\Salary_Calculator\Salary_Calculator\obj\Debug\Salary_Calculator.exe
+C:\Users\nisha\source\repos\Salary_Calculator\Salary_Calculator\obj\Debug\Salary_Calculator.pdb
